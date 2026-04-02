@@ -148,7 +148,7 @@ npm run dev
 
 ## 📝 Licença
 
-MIT © [Seu Nome]
+MIT ©
 
 ## 🤝 Contribuindo
 
