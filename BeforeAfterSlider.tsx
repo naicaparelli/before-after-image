@@ -80,7 +80,7 @@ export default function BeforeAfterSlider({
           left: 0,
           width: '100%',
           height: '100%',
-          backgroundImage: `url(https://raw.githubusercontent.com/naicaparelli/before-after-image/refs/heads/main/newimage.png)`,
+          backgroundImage: `url(${afterImage})`,
           backgroundSize: 'cover',
           backgroundPosition: 'center'
         }}
@@ -94,7 +94,7 @@ export default function BeforeAfterSlider({
           left: 0,
           width: '100%',
           height: '100%',
-          backgroundImage: `url(https://raw.githubusercontent.com/naicaparelli/before-after-image/refs/heads/main/oldimage.png)`,
+          backgroundImage: `url(${beforeImage})`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           clipPath: `inset(0 ${100 - sliderPosition}% 0 0)`
