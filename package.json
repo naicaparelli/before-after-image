@@ -1,0 +1,29 @@
+{
+  "name": "before-after-slider",
+  "version": "1.0.0",
+  "description": "Componente React interativo para comparação de imagens antes e depois",
+  "main": "BeforeAfterSlider.tsx",
+  "keywords": [
+    "react",
+    "framer",
+    "before-after",
+    "image-comparison",
+    "slider",
+    "image-slider",
+    "typescript",
+    "responsive"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/before-after-slider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/before-after-slider/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/before-after-slider#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
